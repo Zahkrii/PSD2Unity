@@ -84,10 +84,3 @@ PS中导出切图到Untiy生成UGUI界面和场景
 [EsotericSoftware/spine-scripts: Scripts to export from PhotoShop and other tools to Spine's JSON data format. (github.com)](https://github.com/EsotericSoftware/spine-scripts)
 
 [解决Photoshop CC导出JPG文件过大的问题)](https://www.peb.cc/windows/48.html)
-
-### 其他
-
-由于使用了`Newtonsoft.Json`(至少版本>=unity2021.3.16自带了)
-
-如果提示缺失该程序集找到PSD2Unity下的`Editor/NewtonsoftJson~`把后面的`~`去除即可
-
